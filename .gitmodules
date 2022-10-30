@@ -1,0 +1,3 @@
+[submodule "PCC-RL"]
+	path = PCC-RL
+	url = https://github.com/Kurayuri/PCC-RL.git
